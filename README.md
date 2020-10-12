@@ -14,7 +14,7 @@ Welcome!
 
 
 
-[![Daily Life Badge](http://img.shields.io/badge/-Daily%20Life-black?style=flat-square&logo=blogger&link=https://tootouch.github.io/)](https://tootouch.github.io/) 
+[![Daily Life Badge](http://img.shields.io/badge/-Daily%20Life-orange?style=flat-square&logo=blogger&logoColor=white&link=https://tootouch.github.io/)](https://tootouch.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaehyuk-heo-7b4055140/)](https://www.linkedin.com/in/jaehyuk-heo-7b4055140/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jaehyuck.heo/)](https://www.facebook.com/jaehyuck.heo/) 
 [![Instagram-Daily Badge](https://img.shields.io/badge/-Daily%20Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/heo_tootouch/)](https://www.instagram.com/heo_tootouch/) 
